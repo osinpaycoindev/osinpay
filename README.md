@@ -41,15 +41,15 @@ Smartnode Collateral
 
 From block 176720 to 220719 : 1350000 OSN
 
-From block 220720 to 264719 : 1500000 OSN
+From block 220720 to 264719 : 1900000 OSN
 
-From block 263720 to 314719 : 1700000 OSN
+From block 263720 to 314719 : 2100000 OSN
 
-From block 314720 to 354719 : 1900000 OSN
+From block 314720 to 354719 : 2300000 OSN
 
-From block 354720 to 414719 : 2100000 OSN
+From block 354720 to 414719 : 2500000 OSN
 
-From the block 414720 : 2400000 OSN
+From the block 414720 : 2700000 OSN
 
 Development Operation
 ---------------------
