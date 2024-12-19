@@ -639,7 +639,7 @@ public:
             {414720, 2500000 * COIN},
             {INT_MAX, 2700000 * COIN}
           },
-          { {5040, 0}, {231720, 58}, {INT_MAX, 70} }
+          { {5040, 0}, {231820, 58}, {INT_MAX, 70} }
         );
         //FutureRewardShare defaultShare(0.8,0.2,0.0);
         consensus.nFutureRewardShare = Consensus::FutureRewardShare(0.8,0.2,0.0);
