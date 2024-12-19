@@ -626,7 +626,7 @@ public:
 //        	std::cout << "mainnet is disable" << endl;
 //        	exit(0);
 //        }
-        std::vector<FounderRewardStructure> rewardStructures = { {231920, 14}, {INT_MAX, 1} };// 1% founder/dev fee forever
+        std::vector<FounderRewardStructure> rewardStructures = { {2305000, 14}, {INT_MAX, 1} };// 1% founder/dev fee forever
         consensus.nFounderPayment = FounderPayment(rewardStructures, 420);
         consensus.nCollaterals = SmartnodeCollaterals(
           { {88720, 800000 * COIN},
@@ -639,7 +639,7 @@ public:
             {414720, 2500000 * COIN},
             {INT_MAX, 2700000 * COIN}
           },
-          { {5040, 0}, {235220, 58}, {INT_MAX, 70} }
+          { {5040, 0}, {231720, 58}, {INT_MAX, 70} }
         );
         //FutureRewardShare defaultShare(0.8,0.2,0.0);
         consensus.nFutureRewardShare = Consensus::FutureRewardShare(0.8,0.2,0.0);
