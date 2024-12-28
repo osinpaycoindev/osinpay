@@ -1,4 +1,4 @@
-Osin Core Latest v1.40.10.90
+Osin Core Latest v1.41.10.90
 ===========================
 
 |CI|master|develop|
@@ -31,7 +31,7 @@ Reward distribution:
 
 Up to block 230000:
 
-• 58% Smartnode, 28% Miner Reward, 14% Foundation Fund
+• 58% Smartnode, 41% Miner Reward, 1% Foundation Fund
 
 After block 230000:
 
