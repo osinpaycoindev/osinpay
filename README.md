@@ -29,17 +29,11 @@ Coin Specs
 
 Reward distribution:
 
-Up to block 230000:
+After block 230000:
 
 • 58% Smartnode, 41% Miner Reward, 1% Foundation Fund
 
-After block 230000:
-
-• 50% Smartnode, 49% Miner Reward, 1% Foundation Fund
-
 Smartnode Collateral
-
-From block 176720 to 220719 : 1350000 OSN
 
 From block 220720 to 264719 : 1900000 OSN
 
